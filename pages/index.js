@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Kroordarshan" />
         <p className="description">
-         Domain owned by <a href="mailto:hi@cybercafe.dev">amt8u</code>
+         Domain owned by <a href="mailto:hi@cybercafe.dev">amt8u</a></code>
         </p>
       </main>
 
